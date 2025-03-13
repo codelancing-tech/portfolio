@@ -17,7 +17,7 @@ const Footer = () => {
        </a>
     </div>
         
-    <a href="http://www.linkedin.com/in/codelancing-technologies-339b31336" target="_blank" rel="noopener noreferrer">
+    <a href="http://www.linkedin.com/company/codelancing-technologies/" target="_blank" rel="noopener noreferrer">
         <div className="social-icon hover:bg-sky-400">
           <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
           </div>
@@ -33,7 +33,15 @@ const Footer = () => {
           <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
         </div>
         </a>
+
+        <a href="https://wa.me/+919698904457?text=Hello%20%F0%9F%96%90%20Codelancing%20Technologies%2C%20Looking%20for%20a%20website%20development%2C%20can%20you%20please%20share%20the%20quotation." target="_blank" rel="noopener noreferrer">
+        <div className="social-icon hover:bg-sky-400">
+          <img src="/public/assets/whatsapp.svg" alt="phone" className="w-1/2 h-1/2" />
+        </div>
+        </a>
         
+
+
       </div>
 
       <p className="text-white-500">© Codelancing Technologies. All rights reserved.</p>
