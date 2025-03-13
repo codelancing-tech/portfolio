@@ -36,7 +36,7 @@ const Footer = () => {
 
         <a href="https://wa.me/+919698904457?text=Hello%20%F0%9F%96%90%20Codelancing%20Technologies%2C%20Looking%20for%20a%20website%20development%2C%20can%20you%20please%20share%20the%20quotation." target="_blank" rel="noopener noreferrer">
         <div className="social-icon hover:bg-sky-400">
-          <img src="/public/assets/whatsapp.svg" alt="phone" className="w-1/2 h-1/2" />
+          <img src="/assets/whatsapp.svg" alt="phone" className="w-1/2 h-1/2" />
         </div>
         </a>
         
